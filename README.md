@@ -1,20 +1,30 @@
-<<<<<<< HEAD
-# ticketapp
+# Flutter Starter Application
 
-A new Flutter project.
+A Flutter/Dart starter project. Current lib/main.dart contains the default Flutter counter demonstration. The repository name suggests a ticket application, but the inspected code does not yet establish ticketing functionality.
 
-## Getting Started
+## Stack
+- Flutter
+- Dart
 
-This project is a starting point for a Flutter application.
+## Getting started
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone https://github.com/ebukaxyrus/ticketapp.git
+cd ticketapp
+flutter pub get
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Repository status and limitations
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# ticketapp
->>>>>>> b2c3ea8bed220f934475f1b4dea802705e616d9d
+The current README contains merge-conflict markers; this update replaces them with accurate documentation.
+
+## Improvement checklist
+
+- [ ] Verify the project locally and capture screenshots.
+- [ ] Add automated tests or link checks when applicable.
+- [ ] Update documentation alongside meaningful feature changes.
+
+## Maintainer
+
+Dimakunne Chukwuebuka Francis · [Portfolio](https://xyrusportfolio.netlify.app/) · [GitHub](https://github.com/ebukaxyrus)
